@@ -1,5 +1,5 @@
 # ProjectsFofCV
-## [Работа с RestApi](https://github.com/MaxTro91627/ProjectsFofCV/tree/main/jwtappdem)
+## [Работа с RESTful Api](https://github.com/MaxTro91627/ProjectsFofCV/tree/main/jwtappdem)
 В приложении реализована регистрация и авторизация пользователя
 Представлены пример работы с RESTful API и SQL
 ## [Работа с TCP и UDP](https://github.com/MaxTro91627/ProjectsFofCV/tree/main/TCP%3AUDP)
